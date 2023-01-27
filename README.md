@@ -17,7 +17,7 @@ Caio Cezar</a></h1>
 - 🤝 Estou disponível para Trabalhar.
 #
 
-- 🌱 Atualmente estou aprendendo PYTHON.
+- 🌱 Atualmente estou aprendendo C#.
 #
 
 - 🤝 Estou disponível para Freelance.
