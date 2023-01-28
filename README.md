@@ -29,7 +29,7 @@ Caio Cezar</a></h1>
 
 <div align="center">
   <a href="https://github.com/CaioCezarBezerra">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CaioCezarBezerra&show_icons=true&theme=dark&include_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CaioCezarBezerra&show_icons=true&theme=dark&include_commits=false&count_private=true"/>
   <img height="165em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCezarBezerra&layout=compact&langs_count=5&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
