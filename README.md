@@ -33,7 +33,7 @@ Caio Cezar</a></h1>
   <img height="165em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCezarBezerra&layout=compact&langs_count=5&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Caio-Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Caio-Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Caio-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caio-HTML" height="35" width="39" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caio-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
