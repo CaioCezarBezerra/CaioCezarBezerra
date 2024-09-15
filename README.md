@@ -49,7 +49,7 @@ Caio Cezar</a></h1>
     
 | Instagram | LinkedIn | Twitter | Rocketseat | DIO | Medium |
 | --------- | -------- | ------- | ---------- | --- | ------ |
-| [![](./instagram-button-1.png)](https://www.instagram.com/henriqueotogami) | [![](./linkedin-button-1.png)](https://www.linkedin.com/in/caio-cezar-a7b3bb207/)  | [![](./rocketseat-button-1.png)](https://app.rocketseat.com.br/me/caio-cezar-bezerra-09140) | [![](./dio-button-1.png)](https://web.dio.me/users/Caiocezar_bezerra) |
+| [![](./instagram-button-1.png)](https://www.instagram.com/caio_cesar99/) | [![](./linkedin-button-1.png)](https://www.linkedin.com/in/caio-cezar-a7b3bb207/)  | [![](./rocketseat-button-1.png)](https://app.rocketseat.com.br/me/caio-cezar-bezerra-09140) | [![](./dio-button-1.png)](https://web.dio.me/users/Caiocezar_bezerra) |
 
 </div>
   
