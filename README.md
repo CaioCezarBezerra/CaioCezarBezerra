@@ -1,4 +1,13 @@
  
+<div align="center">
+    
+| Resume Contribution | Languages Experience |
+| ------------------- | -------------------- |
+| <img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=CaioCezarBezerra&theme=shades-of-purple&hide_border=true">   | <img flex="auto" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCezarBezerra&theme=shades-of-purple&hide_border=true&layout=compact&langs_count=6&exclude_repo=Aula-Django,flask-rest-api&hide=jupyter%20notebook,javascript"> |
+    
+</div>
+ 
+ 
  <h1 align="center"> Ola 👋, <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Caio Cezar</a></h1>
 
@@ -27,31 +36,21 @@ Caio Cezar</a></h1>
 #
 
 
+<div>
+ 
+| Total Contribution | Time-based Languages |
+| ------------------ | ------------------ |
+| <img flex="auto" width=500 src="https://github-readme-stats.vercel.app/api?username=CaioCezarBezerra&theme=aura&hide_border=true&include_all_commits=true&show_icons=true"> | <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=CaioCezarBezerra&theme=aura&hide_border=true&langs_count=4"> |
+
+</div>
+
+
 <div align="center">
-  <a href="https://github.com/CaioCezarBezerra">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CaioCezarBezerra&show_icons=true&theme=dark&include_commits=false&count_private=true"/>
-  <img height="165em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCezarBezerra&layout=compact&langs_count=5&theme=dark"/>
+    
+| Instagram | LinkedIn | Twitter | Rocketseat | DIO | Medium |
+| --------- | -------- | ------- | ---------- | --- | ------ |
+| [![](./instagram-button-1.png)](https://www.instagram.com/henriqueotogami) | [![](./linkedin-button-1.png)](https://www.linkedin.com/in/caio-cezar-a7b3bb207/)  | [![](./rocketseat-button-1.png)](https://app.rocketseat.com.br/me/caio-cezar-bezerra-09140) | [![](./dio-button-1.png)](https://web.dio.me/users/Caiocezar_bezerra) |
+
 </div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Caio-Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Caio-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Caio-HTML" height="35" width="39" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Caio-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  
-  </div>
-  .
-  
-  
-<div> 
-  <a href="https://instagram.com/caio_cesar99" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caio-cezar-a7b3bb207" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = ""><img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white></a>
-</div>
-<h2 align="center">Github stats :bar_chart:</h2>
-
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{CaioCezarBezerra}/count.svg" alt="CaioCezarBezerra :: Visitor's Count" /></p>
-
-![snake gif](https://github.com/CaioCezarBezerra/CaioCezarBezerra/blob/output/github-contribution-grid-snake.svg)
+ 
