@@ -13,7 +13,7 @@
 
 <p align="left">
 Desenvolvedor de São Paulo-SP.<br>
-Atuo na área de desenvolvimento desde 2023 sempre buscando novos desafios e aprendizado. Melhorando a cada dia em busca de códigos mais limpos e organizados.  
+Atuo na área de desenvolvimento desde 2024 sempre buscando novos desafios e aprendizado. Melhorando a cada dia em busca de códigos mais limpos e organizados.  
 Estou sempre aberto para dicas e criticas construtivas, sinta-se convidado a opinar.
 </p>
 
