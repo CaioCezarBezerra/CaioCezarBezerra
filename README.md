@@ -2,26 +2,20 @@
 
 ###
 
-<h3 align="center">🎯 About<br><br>Desenvolvedor Back-End com experiência na construção de APIs REST utilizando C# e ASP.NET Core, atuando na implementação de regras de negócio, integração com bancos de dados relacionais e manutenção de sistemas em ambiente corporativo.<br><br>Atualmente, estou focado na evolução para o ecossistema Java, desenvolvendo aplicações com Spring Boot e aprofundando conhecimentos em arquitetura de sistemas e boas práticas de desenvolvimento.<br><br>Também possuo experiência com Angular e TypeScript, o que me proporciona uma visão mais completa no desenvolvimento de aplicações web.</h3>
+<h3 align="center">🎯 About<br><br>Desenvolvedor Front-End com experiência na construção de interfaces web utilizando Angular e TypeScript, atuando no desenvolvimento de aplicações com foco em usabilidade, organização de código e integração com APIs REST.<br><br>Possuo experiência na criação de interfaces estruturadas e responsivas, aplicando boas práticas de desenvolvimento, componentização e gerenciamento de estado, contribuindo para aplicações escaláveis, consistentes e de fácil manutenção.<br><br>Tenho conhecimento na integração com APIs desenvolvidas em C# com ASP.NET Core, o que me proporciona uma visão completa da comunicação entre front-end e back-end, facilitando a construção de aplicações mais eficientes.<br><br>Atualmente, estou expandindo minhas habilidades em front-end com React, com foco na construção de interfaces modernas, reutilizáveis e alinhadas às demandas do mercado.<br><br>Sigo em constante evolução no ecossistema front-end, aprofundando conhecimentos em TypeScript, boas práticas e desenvolvimento de aplicações performáticas.</h3>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
   <img width="12" />
