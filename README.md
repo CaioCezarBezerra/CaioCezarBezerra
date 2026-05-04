@@ -2,7 +2,15 @@
 
 ###
 
-<h3 align="center">🎯 About<br><br>Desenvolvedor Front-End com experiência na construção de interfaces web utilizando Angular e TypeScript, atuando no desenvolvimento de aplicações com foco em usabilidade, organização de código e integração com APIs REST.<br><br>Possuo experiência na criação de interfaces estruturadas e responsivas, aplicando boas práticas de desenvolvimento, componentização e gerenciamento de estado, contribuindo para aplicações escaláveis, consistentes e de fácil manutenção.<br><br>Tenho conhecimento na integração com APIs desenvolvidas em C# com ASP.NET Core, o que me proporciona uma visão completa da comunicação entre front-end e back-end, facilitando a construção de aplicações mais eficientes.<br><br>Atualmente, estou expandindo minhas habilidades em front-end com React, com foco na construção de interfaces modernas, reutilizáveis e alinhadas às demandas do mercado.<br><br>Sigo em constante evolução no ecossistema front-end, aprofundando conhecimentos em TypeScript, boas práticas e desenvolvimento de aplicações performáticas.</h3>
+<h3 align="center">🎯 About<br><br>Desenvolvedor de Software com experiência na construção de interfaces web utilizando Angular e TypeScript, atuando no desenvolvimento de aplicações com foco em usabilidade, organização de código e integração com APIs REST.
+
+Atualmente, direciono minha atuação para o desenvolvimento mobile com React Native, desenvolvendo aplicações modernas, performáticas e integradas com back-end. Tenho experiência na construção de interfaces responsivas, componentização e gerenciamento de estado, aplicando boas práticas para garantir escalabilidade e manutenibilidade.
+
+Possuo conhecimento na integração com APIs desenvolvidas em C# com ASP.NET Core, o que me proporciona uma visão completa da comunicação entre front-end e back-end, facilitando a construção de aplicações mais eficientes e bem estruturadas.
+
+Minha base em desenvolvimento front-end, aliada à experiência com back-end, permite uma abordagem mais completa no desenvolvimento mobile, garantindo melhor organização, reutilização de código e qualidade nas entregas.
+
+Sigo em constante evolução no ecossistema mobile com React Native, aprofundando conhecimentos em TypeScript, boas práticas e desenvolvimento de aplicações focadas em performance e experiência do usuário.</h3>
 
 ###
 
